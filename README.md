@@ -2,6 +2,8 @@
 
 ***NOW SEEKING COMMUNITY AND REPO MANAGERS AND MODERATORS!!! Please contact me directly if available and interested! (@ dr.youvi.avant@gmail.com)
 
+Discord Server: 
+
 README - INTRODUCTION
 
 Project Overview:
