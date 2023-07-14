@@ -32,10 +32,21 @@ If you have any questions, feedback, or inquiries regarding LouminAIre-PS, pleas
 
 Let's make coding accessible and inclusive with LouminAIre-PS!
 
-Copyright 2023 LouminAIrePS
+Copyright 2023 (& beyond, in perpetuity...) [copyright holder]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+LouminAIre-PS Open-Source Project License (based on PSFL)
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. Redistributions in source code form, in whole or in part, must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+2. Redistributions in binary form, compiled executables, or documentation generated from the Software must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Any modifications or enhancements made to the Software must be contributed back to the LouminAIre-PS project and made available under the terms of this license.
+
+4. Redistributions of any form whatsoever must retain the following acknowledgment:
+   "This product includes software developed by the LouminAIre-PS project: https://github.com/thedavidyoungblood/LouminAIrePS-repo/tree/main."
+
+5. The LouminAIre-PS project, including its contributors and copyright holders, shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising in any way out of the use of this Software, even if advised of the possibility of such damage.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
