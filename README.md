@@ -17,7 +17,7 @@ Multilingual Support: LouminAIre-PS is built to support multiple languages, ensu
 Universal Comprehension: With a clear and straightforward syntax, LouminAIre-PS aims to be easily understood by users across cultures and educational levels.
 
 Getting Started:
-To get started with LouminAIre-PS, follow the installation instructions and refer to the documentation available in the repository. The documentation provides detailed information on the language syntax, core concepts, and examples to help you write LouminAIre-PS code effectively.
+# placeholder "To get started with LouminAIre-PS, follow the installation instructions and refer to the documentation available in the repository. The documentation provides detailed information on the language syntax, core concepts, and examples to help you write LouminAIre-PS code effectively."
 
 Contributing:
 Contributions to LouminAIre-PS are welcome! Whether you want to report a bug, suggest an improvement, or contribute code, please refer to our guidelines for contributing. Together, we can make LouminAIre-PS even better.
