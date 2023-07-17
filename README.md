@@ -3,7 +3,7 @@
 ***NOW SEEKING COMMUNITY AND REPO MANAGERS AND MODERATORS!!!(Actually, every role imaginable. If it doesn't exist yet, we'll make one for you!) 
 Please contact me directly if available and interested! (@ dr.youvi.avant@gmail.com)
 
-Discord Server: 
+Discord Server: https://discord.gg/KcjN2Mp6cS
 
 README - INTRODUCTION
 
