@@ -47,7 +47,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 3. Any modifications or enhancements made to the Software must be contributed back to the LouminAIre-PS project and made available under the terms of this license.
 
 4. Redistributions of any form whatsoever must retain the following acknowledgment:
-   "This product includes software developed by the LouminAIre-PS project: https://github.com/thedavidyoungblood/LouminAIrePS/tree/main."
+   "This product includes software developed by the LouminAIre-PS project: https://github.com/LouminAIre-PS."
 
 5. The LouminAIre-PS project, including its contributors and copyright holders, shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising in any way out of the use of this Software, even if advised of the possibility of such damage.
 
