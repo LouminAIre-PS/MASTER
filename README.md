@@ -4,6 +4,7 @@
 Please contact me directly if available and interested! (@ dr.youvi.avant@gmail.com)
 
 Discord Server: https://discord.gg/KcjN2Mp6cS
+FrontEnd Development: https://llvm.org/
 
 README - INTRODUCTION
 
@@ -33,7 +34,7 @@ If you have any questions, feedback, or inquiries regarding LouminAIre-PS, pleas
 
 Let's make coding accessible and inclusive with LouminAIre-PS!
 
-Copyright 2023 (& beyond, in perpetuity...) [copyright holder]
+Copyright 2023 (& beyond, in perpetuity...) David Youngblood (Just some person, trying to make something cool happen...)
 
 LouminAIre-PS Open-Source Project License (based on PSFL)
 
