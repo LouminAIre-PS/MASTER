@@ -1,7 +1,7 @@
 # .github
 
 ***NOW SEEKING COMMUNITY AND REPO MANAGERS AND MODERATORS!!!(Actually, every role imaginable. If it doesn't exist yet, we'll make one for you!) 
-Please contact me directly if available and interested! (@ dr.youvi.avant@gmail.com)
+Please contact me directly if available and interested! (@ admin@louminaire-ps.org)
 
 Discord Server: https://discord.gg/KcjN2Mp6cS
 FrontEnd Development: https://llvm.org/
@@ -30,7 +30,7 @@ Acknowledgements;
 We would like to express our gratitude to the open-source community for their continuous support and contributions to LouminAIre-PS. Your feedback and involvement are highly appreciated.
 
 Contact:
-If you have any questions, feedback, or inquiries regarding LouminAIre-PS, please reach out to us at [dr.youvi.avant@gmail.com]
+If you have any questions, feedback, or inquiries regarding LouminAIre-PS, please reach out to us at [admin@louminaire-ps.org]
 
 Let's make coding accessible and inclusive with LouminAIre-PS!
 
