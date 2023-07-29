@@ -4,7 +4,14 @@
 Please contact me directly if available and interested! (@ admin@louminaire-ps.org)
 
 Discord Server: https://discord.gg/KcjN2Mp6cS
+
 FrontEnd Development: https://llvm.org/
+
+Primary Source Coding Languages:
+
+- LangChain
+
+- Python
 
 README - INTRODUCTION
 
