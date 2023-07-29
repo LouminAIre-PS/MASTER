@@ -23,6 +23,32 @@ placeholder "To get started with LouminAIre-PS, follow the installation instruct
 Contributing:
 Contributions to LouminAIre-PS are welcome! Whether you want to report a bug, suggest an improvement, or contribute code, please refer to our guidelines for contributing. Together, we can make LouminAIre-PS even better.
 
+Current and Potential LLM Integrations:
+
+BERT: Introduced by Google in 2018, it features 342 million parameters and was pre-trained on a large corpus of data for query understanding in Google search.
+
+Falcon 40B: Developed by the Technology Innovation Institute, it is a transformer-based, causal decoder-only model available in different parameter sizes and is open source.
+
+Galactica: Meta's LLM trained on academic material, generating AI "hallucinations" that were deemed unsafe due to their authoritative tone.
+
+GPT-3.5: An upgraded version of GPT-3 with fewer parameters, powered ChatGPT, and integrated into Bing search.
+
+GPT-4: Released in 2023, GPT-4 is the largest model in OpenAI's GPT series, potentially close to artificial general intelligence (AGI) capabilities.
+
+LaMDA: Google's LLM family pre-trained on a large text corpus, attracting attention for claims of sentience.
+
+Llama(2): Meta AI's LLM available in various parameter sizes, open source, and built on a transformer architecture. (*likely not eligible due to licensing limitations of multi-LLM interoperation clauses)
+
+Orca: Microsoft's LLM with 13 billion parameters, aiming to imitate reasoning procedures achieved by larger models like GPT-4.
+
+PaLM: Google's 540 billion parameter transformer-based model specializing in reasoning tasks and available in fine-tuned versions.
+
+Phi-1: Microsoft's LLM with 1.3 billion parameters, trained on high-quality data for Python coding.
+
+StableLM: An open-source series of LLMs developed by Stability AI, striving to be transparent and supportive.
+
+Claude(2): Anthopic, a spinoff team and LLM from the OpenAI collective. 
+
 License:
 LouminAIre-PS is released under the MIT License, granting you the freedom to use, modify, and distribute the language according to the terms of the license.
 
