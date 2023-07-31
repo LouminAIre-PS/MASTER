@@ -1,5 +1,5 @@
 # .github
-README - INTRODUCTION
+(Old Version) README - INTRODUCTION
 
 Project Overview:
 LouminAIre-PS(Prompt-Script) is an open-source programming language, interoperating with AI, and all known languages, developed with the goal of enabling individuals with a 9th Grade Reading Level, or beyond, regardless of their language, to engage with coding and harness the power of technology. This language aims to bridge the gap between humans and technology by prioritizing simplicity, clarity, and universal comprehension.
