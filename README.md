@@ -49,6 +49,8 @@ Current and Potential LLM Integrations:
 
 BERT: Introduced by Google in 2018, it features 342 million parameters and was pre-trained on a large corpus of data for query understanding in Google search.
 
+https://github.com/ShishirPatil/gorilla: Gorilla enables LLMs to use tools by invoking APIs. Given a natural language query, Gorilla comes up with the semantically- and syntactically- correct API to invoke. 
+
 Falcon 40B: Developed by the Technology Innovation Institute, it is a transformer-based, causal decoder-only model available in different parameter sizes and is open source.
 
 Galactica: Meta's LLM trained on academic material, generating AI "hallucinations" that were deemed unsafe due to their authoritative tone.
