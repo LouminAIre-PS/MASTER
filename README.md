@@ -7,7 +7,8 @@ Discord Server: https://discord.gg/KcjN2Mp6cS
 
 FrontEnd Development: https://llvm.org/
 
-Primary Source Coding Languages
+## Primary Source Coding Languages
+
 LouminAIre-PS is not limited to traditional programming languages. Instead, it is a versatile platform designed to bridge the gap between humans and technology. It empowers users with various capabilities, including:
 
 LangChain: This innovative component allows users to express their intentions and commands in a manner that's closer to human language, simplifying interaction with the platform.
