@@ -14,10 +14,12 @@ LangChain: This innovative component allows users to express their intentions an
 
 Python: While not just a programming language, Python plays a crucial role within LouminAIre-PS, enabling advanced scripting and automation.
 
-Introduction
+# Introduction
+
 Project Overview: LouminAIre-PS (Prompt-Script) is not merely a traditional programming language but a groundbreaking platform for enabling individuals with a 9th Grade Reading Level or higher, regardless of their native language, to engage with coding and harness the power of technology. LouminAIre-PS transcends the boundaries of conventional coding by evolving into a multi-modal integratable SaaS Platform and application.
 
-Vision and Purpose
+# Vision and Purpose
+
 LouminAIre-PS aims to be an all-encompassing platform that enables users to communicate their ideas, concepts, and requirements in various formats, including text, images, videos, and more. Leveraging the capabilities of Large Language Models (LLMs), the platform can achieve a multitude of tasks, including:
 
 Software Development: LouminAIre-PS can assist users in creating, designing, and developing software applications from start to finish. It provides suggestions, enhancements, and integrates with all known Operating Systems and Electronic Technological Devices.
